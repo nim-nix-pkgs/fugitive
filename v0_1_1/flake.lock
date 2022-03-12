@@ -11,11 +11,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647058734,
-        "narHash": "sha256-O/wQAAh8rvdZlAEx+7cpCLrYK2s0NE+9cKXMlsfoycU=",
+        "lastModified": 1647112344,
+        "narHash": "sha256-QI29uet/k/JkGx5LRj+xmICFLj9RVWqsW8nNTTc+Lx8=",
         "owner": "nim-nix-pkgs",
         "repo": "colorize",
-        "rev": "be92d9acf17303b37914ea1ec51d99aec36c4437",
+        "rev": "af8505d915f500df8cfdbfa72d7debb9de99e551",
         "type": "github"
       },
       "original": {
@@ -38,13 +38,20 @@
         "src-colorize-master": "src-colorize-master"
       },
       "locked": {
-        "narHash": "sha256-p/m/Nd5wkd09PV2XJHXfXiAdyTlq++EpouewXYhsOJs=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112344,
+        "narHash": "sha256-QI29uet/k/JkGx5LRj+xmICFLj9RVWqsW8nNTTc+Lx8=",
+        "owner": "nim-nix-pkgs",
+        "repo": "colorize",
+        "rev": "af8505d915f500df8cfdbfa72d7debb9de99e551",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "colorize",
+        "type": "github"
       }
     },
     "flakeNimbleLib": {
